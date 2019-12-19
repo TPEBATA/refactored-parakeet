@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+.DS_Store
+*.sw[po]
+*.xpi
+*.pyc
+logs/
+dist/
+firefox/
+*.update.rdf
+data/content/activity-stream.bundle.js
+data/content/*.js.map
+data/locales.json
+css/
+prerendered/
+bin/prerender.js
+bin/prerender.js.map
